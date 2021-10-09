@@ -10,6 +10,14 @@ public static void main(String[] args){
     char d= 'd';
     System.out.println(d);
     String s="Ich bin ein String";
-    System.out.println(d);
-}
-}
+    System.out.println(s);
+
+//modulo
+
+
+
+
+
+
+
+}}
